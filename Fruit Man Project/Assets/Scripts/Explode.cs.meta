@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00cb237ef630f19428d54ee4fc22c80d
+timeCreated: 1433263391
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {fileID: 8300000, guid: 40f4ac5ff3cf37f4d9dea7ed1f7da79c, type: 3}
+  - messenger: {fileID: 198386, guid: 7686cdca75b28824080532d0a34c6b0b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

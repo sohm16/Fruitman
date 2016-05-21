@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 137e0748140d66b42a8fcfe3403fcfd4
+timeCreated: 1433118986
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites for Days_0
+    21300002: Sprites for Days_1
+    21300004: Sprites for Days_2
+    21300006: Sprites for Days_3
+    21300008: Sprites for Days_4
+    21300010: Sprites for Days_5
+    21300012: Sprites for Days_6
+    21300014: Sprites for Days_7
+    21300016: Sprites for Days_8
+    21300018: Sprites for Days_9
+    21300020: Sprites for Days_12
+    21300022: Sprites for Days_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites for Days_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 290
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 288
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 288
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 288
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprites for Days_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 258
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
